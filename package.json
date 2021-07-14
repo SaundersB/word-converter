@@ -1,0 +1,14 @@
+{
+  "name": "word-converter",
+  "version": "1.0.0",
+  "description": "Function to convert a number to its textual equivalent",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Charles River Laboratory",
+  "license": "unlicensed",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
