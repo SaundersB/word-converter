@@ -9,6 +9,6 @@
   "author": "Charles River Laboratory",
   "license": "unlicensed",
   "devDependencies": {
-    "jest": "^27.0.6"
+    "jest": "^29.4.3"
   }
 }
